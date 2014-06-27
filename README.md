@@ -8,7 +8,6 @@ Requirements for Windows
 * Python 3.4  - https://www.python.org/download
 * PySide      - `pip install pyside`
 * SymPy       - `pip install sympy`
-* Qt Designer - http://qt-project.org/downloads
 
 Requirements for Linux
 =========
@@ -16,7 +15,11 @@ Requirements for Linux
 * Python 3.4  - `sudo apt-get install python3`
 * PySide      - `sudo apt-get install python3-pyside` OR `sudo pip3 install pyside`
 * SymPy       - `sudo pip3 install sympy`
-* Qt Designer - `sudo apt-get install qt4-designer`
+
+Development tools
+=========
+
+* Qt Designer - `sudo apt-get install qt4-designer` OR http://qt-project.org/downloads
 
 Python 2 compatibility
 =========
