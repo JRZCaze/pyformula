@@ -26,6 +26,7 @@ def main():
 
     from pyformula import formulae
     print(formulae.maths['pythagoras'].calc({'a':2, 'b':2}))
+    input()
 
 if __name__ == "__main__":
     main()

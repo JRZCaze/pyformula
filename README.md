@@ -16,6 +16,11 @@ Requirements for Linux
 * PySide      - `sudo apt-get install python3-pyside` OR `sudo pip3 install pyside`
 * SymPy       - `sudo pip3 install sympy`
 
+Usage
+=========
+
+
+
 Development tools
 =========
 
